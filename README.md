@@ -26,7 +26,7 @@ This project is [here](https://gitlab.com/lauterbach/awesome-trace32) at home.
 
 ## Scripts (PRACTICE)
 
-- [TRACE32-Scripts](https://github.com/Benetti-Engineering-sas/trace32-scripts) by Benetti Engineering S.a.s. - U-Boot and Linux scripts for many ARM based targets.
+- [TRACE32-Scripts](https://github.com/Benetti-Engineering-sas/trace32-scripts) by Benetti Engineering S.a.s. – U-Boot and Linux scripts for many ARM based targets.
 
 ## Scripts (Python)
 
@@ -34,7 +34,7 @@ This project is [here](https://gitlab.com/lauterbach/awesome-trace32) at home.
 
 ## Tools
 
-- [tree-sitter-t32](https://codeberg.org/xasc/tree-sitter-t32) - Lauterbach TRACE32 script language grammar for tree-sitter.
+- [tree-sitter-t32](https://codeberg.org/xasc/tree-sitter-t32) – Lauterbach TRACE32 script language grammar for tree-sitter.
 
 ## Articles
 

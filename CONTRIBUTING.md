@@ -33,10 +33,10 @@ You have an awesome TRACE32 project that doesn't really fit those categories? Wr
 
 Tutorials may be presentation slides, detailed blog posts or articles, or videos. The list entry should contain the **type of the presentation** accordingly (Slides/Article/Video). Tutorials may be in any **language**. However, make sure the title and the description is provided in English. Also mention the tutorial's language at the end of the list entry if the tutorial is not in English.
 
-**Naming convention:** `[title](link)` **by** `author` **-** `type of material`**:** `short description (language if not English)`**.**
+**Naming convention:** `[title](link)` **by** `author` **–** `type of material`**:** `short description (language if not English)`**.**
 
 Example:
-- [Debugging Linux on the FantasyBoard 42 with TRACE32](#) by My Company/Name - Video: Step by step guide on how to debug a Linux kernel module on the FantasyBoard 42 (German).
+- [Debugging Linux on the FantasyBoard 42 with TRACE32](#) by My Company/Name – Video: Step by step guide on how to debug a Linux kernel module on the FantasyBoard 42 (German).
 
 
 ### Scripts
@@ -44,10 +44,10 @@ Example:
 Scripts may serve any purpose, from board bring-up in Python to Tetris in PRACTICE.
 Note the additional information regarding [PRACTICE](#practice-scripts) and [Python](#python-scripts) below.
 
-**Naming convention:** `[title](link)` **by** `author` **-** `short description`**.**
+**Naming convention:** `[title](link)` **by** `author` **–** `short description`**.**
 
 Example:
-- [Tetris in PRACTICE](#) by My Company/Name - A complete game of Tetris implemented in PRACTICE.
+- [Tetris in PRACTICE](#) by My Company/Name – A complete game of Tetris implemented in PRACTICE.
 
 
 #### PRACTICE Scripts
@@ -100,18 +100,18 @@ Please make sure it is easy for other people in the TRACE32 Community to install
 
 Open source software or hardware tools that extend the core functionality of TRACE32 or add new functions.
 
-**Naming convention:** `[name](link)` **by** `author` **-** `short description`**.**
+**Naming convention:** `[name](link)` **by** `author` **–** `short description`**.**
 
 The field `author` is optional.
 
 Example:
-- [lauterbach-trace32-rcl](#) by Lauterbach GmbH - TRACE32 Remote Control for Python.
+- [lauterbach-trace32-rcl](#) by Lauterbach GmbH – TRACE32 Remote Control for Python.
 
 ### Articles
 
 Technical articles or blog posts are usually more in-depth and less educational compared to a tutorial.
 
-**Naming convention:** `[title](link)` **by** `author` **-** `short description`**.**
+**Naming convention:** `[title](link)` **by** `author` **–** `short description`**.**
 
 Example:
-- [Intricacies of the PRACTICE stack](#) by My Company/Name - An in-depth analysis of the PRACTICE stack and some neat tricks.
+- [Intricacies of the PRACTICE stack](#) by My Company/Name – An in-depth analysis of the PRACTICE stack and some neat tricks.
