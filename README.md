@@ -34,7 +34,7 @@ This project is [here](https://gitlab.com/lauterbach/awesome-trace32) at home.
 
 ## Tools
 
-- [tree-sitter-t32](https://codeberg.org/xasc/tree-sitter-t32) - Lauterbach TRACE32 script language grammar for tree-sitter
+- [tree-sitter-t32](https://codeberg.org/xasc/tree-sitter-t32) - Lauterbach TRACE32 script language grammar for tree-sitter.
 
 ## Articles
 
