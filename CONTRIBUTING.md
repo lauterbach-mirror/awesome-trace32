@@ -24,6 +24,7 @@ Also consider the naming conventions as provided in the [Guidelines](#guidelines
 - [Guidelines for Scripts](#scripts)
   - [PRACTICE Scripts](#practice-scripts)
   - [Python Scripts](#python-scripts)
+- [Guidelines for Tools](#tools)
 - [Guidelines for Articles](#articles)
 
 You have an awesome TRACE32 project that doesn't really fit those categories? Write an issue and describe your project a little. Maybe we can find a fitting category together or create a new one.
@@ -94,6 +95,17 @@ Please make sure it is easy for other people in the TRACE32 Community to install
 - the TRACE32 and Pyrcl version you used, and
 - further required Python modules and their versions (e.g., use a pip requirements file).
 
+
+### Tools
+
+Open source software or hardware tools that extend the core functionality of TRACE32 or add new functions.
+
+**Naming convention:** `[name](link)` **by** `author` **-** `short description`**.**
+
+The field `author`is optional.
+
+Example:
+- [lauterbach-trace32-rcl](#) by Lauterbach GmbH - TRACE32 Remote Control for Python.
 
 ### Articles
 
