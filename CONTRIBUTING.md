@@ -102,7 +102,7 @@ Open source software or hardware tools that extend the core functionality of TRA
 
 **Naming convention:** `[name](link)` **by** `author` **-** `short description`**.**
 
-The field `author`is optional.
+The field `author` is optional.
 
 Example:
 - [lauterbach-trace32-rcl](#) by Lauterbach GmbH - TRACE32 Remote Control for Python.
