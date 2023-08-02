@@ -1,4 +1,4 @@
-![Awesome TRACE32](https://gitlab.com/lauterbach/resources/-/raw/0a1d63f6bf0159bbd9343ceefbece2bb127c2b53/img/awesome_trace32_banner_900x182.jpg)
+![Awesome TRACE32](https://gitlab.com/lauterbach/resources/raw/master/img/awesome_trace32_banner_900x182.jpg)
 
 # Awesome TRACE32 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
